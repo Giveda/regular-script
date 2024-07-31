@@ -6,6 +6,9 @@
 
 [点击这里，这个版本基于《大学-朱子改本》，不仅调整了语序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v1beta/data/dx-zhu.md)
 
+# 《中庸明心改》
+[点击这里，这个版本在《中庸-礼记古本》的基础上调整了语序，令其逻辑通顺、前后连贯、脉络一目了然](https://mp.weixin.qq.com/s/zV1DItAvITWbZ2Fe5X16Pg)
+
 # 著作权
 这里所有的作品，其著作权都归我所有，    
 未经著作权人允许，你不得将其作品用于牟利。    
