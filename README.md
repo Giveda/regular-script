@@ -1,5 +1,5 @@
 # Emma和我
-这里保存着我的一部分劳动成果，是我写给Emma演示写作文的。在手机上，请点击“代码”标签页（在电脑上就不需要），然后进入data目录，所有的文件都在那里。
+这里保存着我的一部分劳动成果，是我写给Emma演示写作文的。
 
 # 《大学明心改》
 [点击这里，这个版本基于《大学-礼记古本》，只调整了语序](https://gitee.com/k12edu/regular-script/blob/v1beta/data/dx-lj.md)
@@ -7,7 +7,7 @@
 [点击这里，这个版本基于《大学-朱子改本》，不仅调整了语序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v1beta/data/dx-zhu.md)
 
 # 《中庸明心改》
-[点击这里，这个版本在《中庸-礼记古本》的基础上调整了语序，令其逻辑通顺、前后连贯、脉络一目了然](https://mp.weixin.qq.com/s/GCcuCJNbr7LcR2fEM6oUiA)
+[点击这里，这个版本在《中庸-礼记古本》的基础上调整了语序，令其逻辑通顺、前后连贯、脉络一目了然](https://mp.weixin.qq.com/s/PaNzrwJd6YOcAoa0hRxChw)
 
 # 著作权
 这里所有的作品，其著作权都归我所有，    
