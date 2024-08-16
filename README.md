@@ -2,9 +2,9 @@
 这里保存着我的一部分劳动成果，是我写给Emma演示写作文的。
 
 # 《大学明心改》
-[点击这里，这个版本基于《大学-礼记古本》，只调整了语序](https://gitee.com/k12edu/regular-script/blob/v3beta/data/dx-lj.md)
+[点击这里，这个版本基于《大学-礼记古本》，只调整了语序](https://gitee.com/k12edu/regular-script/blob/v4beta/data/dx-lj.md)
 
-[点击这里，这个版本基于《大学-朱子改本》，不仅调整了语序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v3beta/data/dx-zhu.md)
+[点击这里，这个版本基于《大学-朱子改本》，不仅调整了语序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v4beta/data/dx-zhu.md)
 
 # 《中庸明心改》
 [点击这里，这个版本在《中庸-礼记古本》的基础上调整了语序，令其逻辑通顺、前后连贯、脉络一目了然，极大地降低了深入学习、完全理解、并彻底吸收《中庸》全部内容的成本](https://mp.weixin.qq.com/s/PaNzrwJd6YOcAoa0hRxChw)
