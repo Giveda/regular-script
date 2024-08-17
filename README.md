@@ -4,9 +4,9 @@
 # 《大学明心改》
 《大学语序通顺版》《大学逻辑通顺版》《明心版大学》
 
-[点击这里，这个版本基于《大学-礼记古本》，只调整了语序](https://gitee.com/k12edu/regular-script/blob/v5beta/data/dx-lj.md)
+[点击这里，这个版本基于《大学-礼记古本》，只调整了语序](https://gitee.com/k12edu/regular-script/blob/v6beta/data/dx-lj.md)
 
-[点击这里，这个版本基于《大学-朱子改本》，不仅调整了语序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v5beta/data/dx-zhu.md)
+[点击这里，这个版本基于《大学-朱子改本》，不仅调整了语序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v6beta/data/dx-zhu.md)
 
 # 《中庸明心改》
 《中庸语序通顺版》《中庸逻辑贯通版》《明心版中庸》
