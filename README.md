@@ -1,3 +1,5 @@
+![data/res/img-20241218.jpeg](data/res/img-20241218.jpeg)
+
 # Emma和我
 这里保存着我的一部分劳动成果，是我写给Emma演示写作文的。
 
