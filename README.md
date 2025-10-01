@@ -6,9 +6,9 @@
 # 《明心版大学》
 曾被称为《大学语序通顺版》《大学逻辑通顺版》《大学明心改》，作者：张明心。
 
-[点击这里，这个版本基于《大学-礼记古本》，只调整了语序](https://gitee.com/k12edu/regular-script/blob/v36beta/data/dx-lj.md)
+[点击这里，这个版本基于《大学-礼记古本》，只调整了语序](https://gitee.com/k12edu/regular-script/blob/v360beta/data/dx-lj.md)
 
-[点击这里，这个版本基于《大学-朱子改本》，不仅调整了语序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v36beta/data/dx-zhu.md)
+[点击这里，这个版本基于《大学-朱子改本》，不仅调整了语序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v360beta/data/dx-zhu.md)
 
 # 《明心版中庸》
 曾被称为《中庸语序通顺版》《中庸逻辑贯通版》《中庸明心改》，作者：张明心。
@@ -20,7 +20,7 @@
 # 著作权 
 未经著作权人允许，你不得发行其作品。    
 除非你全部履行License文件里面规定的转载义务，否则你不能转载这里的作品。       
-[可以参加如下活动，换取《明心版大学》的著作权授权。点此链接，了解“《明心版大学》读后感”征文活动。](https://zhuanlan.zhihu.com/p/1949862988413665966)
+[参加如下活动，换取《明心版大学》的著作权授权。点此链接，了解“《明心版大学》读后感”征文活动。](https://zhuanlan.zhihu.com/p/1949862988413665966)
 
 如需阅读完整内容，请联系：692463260@qq.com    
 具体的著作权声明、转载义务以这里的License文件内容为准   
