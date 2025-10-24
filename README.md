@@ -6,9 +6,9 @@
 # 《明心版大学》
 曾被称为《大学语序通顺版》《大学逻辑通顺版》《大学明心改》，作者：张明心。
 
-[点击这里，这个版本基于《大学-礼记古本》，只调整了语序](https://gitee.com/k12edu/regular-script/blob/v360beta/data/dx-lj.md)
+[点击这里，这个版本基于《大学-礼记古本》，只调整了语序](https://gitee.com/k12edu/regular-script/blob/v361beta/data/dx-lj.md)
 
-[点击这里，这个版本基于《大学-朱子改本》，不仅调整了语序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v360beta/data/dx-zhu.md)
+[点击这里，这个版本基于《大学-朱子改本》，不仅调整了语序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v361beta/data/dx-zhu.md)
 
 # 《明心版中庸》
 曾被称为《中庸语序通顺版》《中庸逻辑贯通版》《中庸明心改》，作者：张明心。
