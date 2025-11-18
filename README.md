@@ -8,9 +8,9 @@
 
 建议将《明心版大学》与传统版本《大学》并用（朱子版、礼记版，二者选其一），相互参考对照，进行批判性阅读。
 
-[点击这里，这个版本基于《大学-礼记古本》，只调整了句序](https://gitee.com/k12edu/regular-script/blob/v361be/data/dx-lj.md)
+[点击这里，这个版本基于《大学-礼记古本》，只调整了句序](https://gitee.com/k12edu/regular-script/blob/v361b/data/dx-lj.md)
 
-[点击这里，这个版本基于《大学-朱子改本》，调整了句序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v361be/data/dx-zhu.md)
+[点击这里，这个版本基于《大学-朱子改本》，调整了句序，而且有增删文本](https://gitee.com/k12edu/regular-script/blob/v361b/data/dx-zhu.md)
 
 # 《明心版中庸》
 《明心版中庸》曾被称为《中庸语序通顺版》《中庸逻辑贯通版》《中庸明心改》，作者：张明心。
