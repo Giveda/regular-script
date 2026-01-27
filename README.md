@@ -12,9 +12,9 @@
 
 建议将《张明心版大学》与传统版本《大学》并用（朱子版、礼记版，二者选其一），相互参考对照，进行思辨性、批判性阅读。
 
-[点击这里，这个版本基于《大学-礼记古本》，只调整了句序。](https://gitee.com/k12edu/regular-script/blob/v361t/data/dx-lj.md)
+[点击这里，这个版本基于《礼记版大学》，只调整了句序。](https://gitee.com/k12edu/regular-script/blob/v361a/data/dx-lj.md)
 
-[点击这里，这个版本基于《大学-朱子改本》，不仅调整了句序，而且有增删文本。](https://gitee.com/k12edu/regular-script/blob/v361t/data/dx-zhu.md)
+[点击这里，这个版本基于《朱子版大学》，不仅调整了句序，而且有增删文本。](https://gitee.com/k12edu/regular-script/blob/v361a/data/dx-zhu.md)
 
 《明心版大学》并不是写给蠢人看的，每个读者内心都会有一把秤，读者会自己给自己那把秤搭配一个合适的秤砣；因此，作者不需要给《明心版大学》添加任何修改依据。——如果你想挑战《明心版大学》、颠覆作者的著作权，那么你应该自己去找修改依据。欢迎你挑战，不怕你挑战，就怕你怂、你不行。
 
