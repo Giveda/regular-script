@@ -140,11 +140,11 @@
 邮箱：692463260@qq.com
 
 支付宝：    
-[https://gitee.com/k12edu/regular-script/blob/master/data/res/img-zfb.jpeg.JPG](https://gitee.com/k12edu/regular-script/blob/master/data/res/img-zfb.jpeg.JPG)
+[https://github.com/Giveda/regular-script/blob/master/data/res/img-zfb.jpeg.JPG](https://github.com/Giveda/regular-script/blob/master/data/res/img-zfb.jpeg.JPG)
 
 ![res/img-zfb.jpeg.JPG](res/img-zfb.jpeg.JPG)
 
 微信：       
-[https://gitee.com/k12edu/regular-script/blob/master/data/res/img-wechat.jpeg.JPG](https://gitee.com/k12edu/regular-script/blob/master/data/res/img-wechat.jpeg.JPG)
+[https://github.com/Giveda/regular-script/blob/master/data/res/img-wechat.jpeg.JPG](https://github.com/Giveda/regular-script/blob/master/data/res/img-wechat.jpeg.JPG)
 
 ![res/img-wechat.jpeg.JPG](res/img-wechat.jpeg.JPG)

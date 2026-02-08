@@ -5,3 +5,26 @@
 [点此链接，参加“《明心版大学》读后感征集活动”，以你的《读后感作品》的著作权授权换取《明心版大学》的著作权授权。](https://zhuanlan.zhihu.com/p/1949862988413665966) 如果你既不愿参加上述活动（以劳动换取劳动）、又想要《明心版大学》的著作权授权、又不想按标价付费购买，那么你可以发送邮件到692463260@qq.com（说明你的情况、申请救济），作者将会根据彼此的情况决定是否免费给予你著作权授权。
 
 凡是违反以上规则的“获取”，无论表面多么“道貌岸然”，都统统可以被定义为“不劳而获”和“强盗”。
+
+北京时间2026年2月8日21:16，著作权人宣布下架所有在此时间之前的“转载优惠”，并上架新的转载优惠系列活动如下：
+
+为庆祝春节——在2026年2月8日至2026年3月4日之间，转载者转载[v08-beta版《张明心版大学》](https://github.com/Giveda/regular-script/blob/v08-beta/data/dx-lj.md)仅需支付3万元即可获得该版本的改编权授权。
+
+为庆祝春节——在2027年1月8日至2027年3月4日之间，转载者转载[v08-beta版《张明心版大学》](https://github.com/Giveda/regular-script/blob/v08-beta/data/dx-lj.md)仅需支付3.1万元即可获得该版本的改编权授权。
+
+为庆祝春节——在2028年1月8日至2028年3月4日之间，转载者转载[v08-beta版《张明心版大学》](https://github.com/Giveda/regular-script/blob/v08-beta/data/dx-lj.md)仅需支付3.2万元即可获得该版本的改编权授权。
+
+为庆祝春节——在2029年1月8日至2029年3月4日之间，转载者转载[v08-beta版《张明心版大学》](https://github.com/Giveda/regular-script/blob/v08-beta/data/dx-lj.md)仅需支付3.3万元即可获得该版本的改编权授权。
+
+为庆祝春节——在2030年1月8日至2030年3月4日之间，转载者转载[v08-beta版《张明心版大学》](https://github.com/Giveda/regular-script/blob/v08-beta/data/dx-lj.md)仅需支付3.4万元即可获得该版本的改编权授权。
+
+为庆祝春节——在2031年1月8日至2031年3月4日之间，转载者转载[v08-beta版《张明心版大学》](https://github.com/Giveda/regular-script/blob/v08-beta/data/dx-lj.md)仅需支付3.5万元即可获得该版本的改编权授权。
+
+为庆祝春节——在2032年1月8日至2032年3月4日之间，转载者转载[v08-beta版《张明心版大学》](https://github.com/Giveda/regular-script/blob/v08-beta/data/dx-lj.md)仅需支付3.6万元即可获得该版本的改编权授权。
+
+为庆祝春节——在2033年1月8日至2033年3月4日之间，转载者转载[v08-beta版《张明心版大学》](https://github.com/Giveda/regular-script/blob/v08-beta/data/dx-lj.md)仅需支付3.7万元即可获得该版本的改编权授权。
+
+为庆祝春节——在2034年1月8日至2034年3月4日之间，转载者转载[v08-beta版《张明心版大学》](https://github.com/Giveda/regular-script/blob/v08-beta/data/dx-lj.md)仅需支付3.8万元即可获得该版本的改编权授权。
+
+为庆祝春节——在2035年1月8日至2035年3月4日之间，转载者转载[v08-beta版《张明心版大学》](https://github.com/Giveda/regular-script/blob/v08-beta/data/dx-lj.md)仅需支付3.9万元即可获得该版本的改编权授权。
+
