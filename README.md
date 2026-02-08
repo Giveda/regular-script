@@ -12,9 +12,9 @@
 
 建议将《张明心版大学》与传统版本《大学》并用（朱子版、礼记版，二者选其一），相互参考对照，进行思辨性、批判性阅读。
 
-[点击这里，这个版本基于《礼记版大学》，只调整了句序。](https://github.com/Giveda/regular-script/regular-script/blob/v363a/data/dx-lj.md)
+[点击这里，这个版本基于《礼记版大学》，只调整了句序。](https://github.com/Giveda/regular-script/blob/v363a/data/dx-lj.md)
 
-[点击这里，这个版本基于《朱子版大学》，不仅调整了句序，而且有增删文本。](https://github.com/Giveda/regular-script/regular-script/blob/v363a/data/dx-zhu.md)
+[点击这里，这个版本基于《朱子版大学》，不仅调整了句序，而且有增删文本。](https://github.com/Giveda/regular-script/blob/v363a/data/dx-zhu.md)
 
 每个读者内心都会有一把秤，读者会自己给自己那把秤搭配一个合适的秤砣；据此，为了每位读者能够有更大的参与空间，作者既不能给《张明心版大学》添加任何的修改依据、更不能把它做得完整无缺，因为这会限制和压缩后来者的参与空间。——所以，如果你想挑战《张明心版大学》、颠覆作者的著作权，那么你应该自己去找依据；作者须要保护和预留后来者的参与空间，欢迎后来者补全相关的缺失（著作权归补全者）；也欢迎你挑战，不怕你挑战，就怕你怂、你不行。
 
