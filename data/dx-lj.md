@@ -1,6 +1,6 @@
 # 张明心版《大学》（儒家《大学》改版作品）
 
-整理者：张明心，692463260@qq.com。（此邮箱是署名的重要组成部分，用于排除重名、验证身份）
+整理者：张明心，mike6924@outlook.com。（此邮箱是署名的重要组成部分，用于排除重名、验证身份）
 
 建议将《张明心版大学》与传统版本《大学》并用（朱子版、礼记版，二者选其一），相互参考对照，进行思辨性、批判性阅读。
 
@@ -137,7 +137,7 @@
 
 联系人：张明心
 
-邮箱：692463260@qq.com
+邮箱：mike6924@outlook.com
 
 支付宝：    
 [https://github.com/Giveda/regular-script/blob/master/data/res/img-zfb.jpeg.JPG](https://github.com/Giveda/regular-script/blob/master/data/res/img-zfb.jpeg.JPG)
